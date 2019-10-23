@@ -6,10 +6,12 @@ PHP + MySQL Container for Laravel on GitPod
 
 ## PASSOS PARA UTILIZAÇÃO
 
-### Crie o DB no MySQL
-- mysql
-- create database project;
-- exit
+### Crie o Banco de Dados no MySQL
+```md
+mysql
+create database project;
+exit
+```
 
 ### Após iniciar o Container
 - composer install
