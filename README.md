@@ -8,9 +8,9 @@ https://gitpod.io/#https://github.com/wagcbjr/laravel-php-mysql/
 composer install
 
 # criar o banco de dados no mysql 
-mysql
-create database project;
-exit;
+mysql \n
+create database project; \n
+exit; \n
 
 # renomear o arquivo .env.example para .env
 # criar a app:key do laravel
