@@ -1,19 +1,19 @@
-## LARAVEL + PHP + MYSQL
+# LARAVEL + PHP + MYSQL
 PHP + MySQL Container for Laravel on GitPod
 
-# PASSOS PARA UTILIZAÇÃO
+## PASSOS PARA UTILIZAÇÃO
 
-## Clone o projeto para o gitpod
+### Clone o projeto para o gitpod
 - https://gitpod.io/#https://github.com/wagcbjr/laravel-php-mysql/
 
-## Crie o DB no MySQL
+### Crie o DB no MySQL
 - mysql
 - create database project;
 - exit
 
-## Após iniciar o Container
+### Após iniciar o Container
 - composer install
-- renomear o arquivo .env.example para .env
+- renomear o arquivo <b>.env.example</b> para <b>.env</b>
 - php artisan key:generate
 - php artisan serve
 
