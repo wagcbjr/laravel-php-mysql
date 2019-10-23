@@ -1,0 +1,7 @@
+image:
+  file: Dockerfile
+ports:
+  - port: 8001
+    onOpen: ignore
+  - port: 3306
+    onOpen: ignore
