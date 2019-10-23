@@ -1,11 +1,10 @@
 # LARAVEL + PHP + MYSQL
 PHP + MySQL Container for Laravel on GitPod
 
+[![Abrir no Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/wagcbjr/laravel-php-mysql/)
+
+
 ## PASSOS PARA UTILIZAÇÃO
-
-### Clone o projeto para o gitpod
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/wagcbjr/laravel-php-mysql/)
-
 
 ### Crie o DB no MySQL
 - mysql
